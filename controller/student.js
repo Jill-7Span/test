@@ -1,3 +1,3 @@
 exports.student = (req,res)=>{
-    res.send("dfvdfvdfvdfv");
+    res.send("this is student controller");
 }

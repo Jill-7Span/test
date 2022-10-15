@@ -8,7 +8,7 @@ const app = express();
 app.use('/',router)
 
 app.get('/',(req,res)=>{
-    res.send("jkdbgchjks");
+    res.send("this is home route");
 })
 
 app.listen(5000);
